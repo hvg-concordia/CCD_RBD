@@ -1,5 +1,5 @@
 (* ========================================================================= *)
-(* File Name: CCD.sml	          	                                     *)
+(* File Name: CCD_FT.sml	          	                                     *)
 (*---------------------------------------------------------------------------*)
 (*          Description: Formalization of cause-Consequence Diagrams for     *)
 (*	    		 Safety Analysis in Higher-order Logic               *)
